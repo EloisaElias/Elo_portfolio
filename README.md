@@ -6,3 +6,4 @@ Elo.
 - Content
   * 00_UCI_Iris_&_wine_df
   * 01_Classes
+  * 02_CTR.ipynb
