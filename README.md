@@ -7,3 +7,4 @@ Elo.
   * 00_UCI_Iris_&_wine_df
   * 01_Classes
   * 02_CTR.ipynb
+  * 03_AB_test.ipynb
