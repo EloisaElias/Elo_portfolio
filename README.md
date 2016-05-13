@@ -8,3 +8,4 @@ Elo.
   * 01_Classes
   * 02_CTR.ipynb
   * 03_AB_test.ipynb
+  * 04_Estimation_sampling.ipynb
