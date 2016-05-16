@@ -9,3 +9,4 @@ Elo.
   * 02_CTR.ipynb
   * 03_AB_test.ipynb
   * 04_Estimation_sampling.ipynb
+  * 05_Bayesian_bandit.ipynb
