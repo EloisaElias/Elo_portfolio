@@ -11,4 +11,4 @@ Elo.
   * 04_Estimation_sampling.ipynb
   * 05_Bayesian_bandit.ipynb
   * 06_Multi_armed_bandit
-  * 07
+  * 07_Power_A/B_test
