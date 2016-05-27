@@ -1,6 +1,6 @@
 ### Direction over speed.
 
-This is Just for my amusement and practice.
+...for my amusement and practice.
 Elo.
 
 - Content
