@@ -1,8 +1,7 @@
 ### Direction over speed.
 
-...for my amusement and practice.
-
-Elo.
+...for my amusement, practice and comprehension..
+                                            Elo.
 
 - Content
   * 00_UCI_Iris_&_wine_df
