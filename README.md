@@ -1,6 +1,6 @@
 ### Direction over speed.
 
-...for my amusement, practice and comprehension..
+...for my amusement, practice and better comprehension..
                                             Elo.
 
 - Content
@@ -12,3 +12,4 @@
   * 05_Bayesian_bandit.ipynb
   * 06_Multi_armed_bandit
   * 07_Power_A/B_test
+  * 08_Bayesian_analysis.ipynb
