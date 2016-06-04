@@ -1,6 +1,9 @@
 ### Direction over speed.
 
-...for my amusement, practice and better comprehension..
+...for my amusement, practice and better comprehension.
+
+Gracias totales
+                                            
                                             Elo.
 
 - Content
