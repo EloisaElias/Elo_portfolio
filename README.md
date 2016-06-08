@@ -10,6 +10,8 @@
 
 - Content
   * 00_UCI_Iris_&_wine_df
+   -Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
+   -The fun part: Playing around with different kind of graphs
   * 01_Classes
   * 02_CTR.ipynb
   * 03_AB_test.ipynb
