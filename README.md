@@ -3,6 +3,8 @@
 ...for my amusement, practice and better comprehension.
 
 
+ I've been workin' on these programs in a daily basis. Mi favorites ones so far are 11 and 12. 
+
                                                        Gracias totales
                                                             Elo.
 
