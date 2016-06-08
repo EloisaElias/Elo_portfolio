@@ -3,7 +3,7 @@
 ...for my amusement, practice and better comprehension.
 
 
- I've been workin' on these programs in a daily basis. Mi favorites ones so far are 11 and 12. 
+Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
 
                                                        Gracias totales
                                                             Elo.
