@@ -21,4 +21,5 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 07_Power_A/B_test
   * 08_Bayesian_analysis.ipynb
   * 09_
+  * 10_
 
