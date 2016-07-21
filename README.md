@@ -23,4 +23,5 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 09_
   * 10_
   * 11_
+  * 12_
 
