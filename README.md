@@ -22,7 +22,7 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 08_Bayesian_analysis.ipynb
   * 09_Probability
   * 10_Covariance_Joint_distribution
-  * 11_
+  * 11_Linear_algebra_PageRank_algorithm
   * 12_
   * 13_
 
