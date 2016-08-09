@@ -26,5 +26,5 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 12_Exploratory_Data_Analysis_EDA
   * 13_Multivariate_linear_regression
   * 14_LinearRegression_Credit_card_balances
-  * 15_
+  * 15_Cross_Validation
 
