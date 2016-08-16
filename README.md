@@ -30,4 +30,5 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 16_Regularization_Regression
   * 17_Logistic_regression
   * 18_
+  * 19_
 
