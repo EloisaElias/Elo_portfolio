@@ -13,9 +13,17 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
   	- The fun part: Playing around with different kind of graphs
   * 01_Classes
+  	- Summary:
+  	- The fun part: 
   * 02_CTR.ipynb
+    - Summary:
+  	- The fun part:
   * 03_AB_test.ipynb
+    - Summary:
+  	- The fun part:
   * 04_Estimation_sampling.ipynb
+    - Summary:
+  	- The fun part:
   * 05_Bayesian_bandit.ipynb
   * 06_Multi_armed_bandit
   * 07_Power_A/B_test
