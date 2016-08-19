@@ -39,4 +39,6 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   * 17_Logistic_regression
   * 18_Gradient_descend
   * 19_
+  * 20_
+  
 
