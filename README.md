@@ -9,36 +9,51 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
                                                             Elo.
 
 - Content
-  * 00_UCI_Iris_&_wine_df
-  	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
-  	- The fun part: Playing around with different kind of graphs
-  * 01_Classes
-  	- Summary:
-  	- The fun part: 
-  * 02_CTR.ipynb
-    - Summary:
+  * 18_Gradient_descend
+  * 17_Logistic_regression
+  * 16_Regularization_Regression
+  * 15_Cross_Validation
+  * 14_LinearRegression_Credit_card_balances
+  * 13_Multivariate_linear_regression
+  * 12_Exploratory_Data_Analysis_EDA
+  * 11_Linear_algebra_PageRank_algorithm
+  * 10_Covariance_Joint_distribution
+  * 09_Probability
+  * 08_Bayesian_analysis.ipynb
+  * 07_Power_A/B_test
+  * 06_Multi_armed_bandit
+  * 05_Bayesian_bandit.ipynb
+  * 04_Estimation_sampling.ipynb
+   	- Summary:
   	- The fun part:
   * 03_AB_test.ipynb
     - Summary:
   	- The fun part:
-  * 04_Estimation_sampling.ipynb
+  * 02_CTR.ipynb
     - Summary:
   	- The fun part:
-  * 05_Bayesian_bandit.ipynb
-  * 06_Multi_armed_bandit
-  * 07_Power_A/B_test
-  * 08_Bayesian_analysis.ipynb
-  * 09_Probability
-  * 10_Covariance_Joint_distribution
-  * 11_Linear_algebra_PageRank_algorithm
-  * 12_Exploratory_Data_Analysis_EDA
-  * 13_Multivariate_linear_regression
-  * 14_LinearRegression_Credit_card_balances
-  * 15_Cross_Validation
-  * 16_Regularization_Regression
-  * 17_Logistic_regression
-  * 18_Gradient_descend
-  * 19_
-  * 20_
+  * 01_Classes
+  	- Summary:
+  	- The fun part: 
+  * 00_UCI_Iris_&_wine_df
+  	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
+  	- The fun part: Playing around with different kind of graphs
   
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+
 
