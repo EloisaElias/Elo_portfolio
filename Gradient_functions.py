@@ -25,7 +25,7 @@ def predict(X, coeffs):
     return hypothesis(X, coeffs).round()
 
 
-def log_likelihood(X, y, coeffs, lbda=1):
+def log_likelihood(X, y, coeffs, lbda=0):
     '''
     INPUT: 2 dimensional numpy array, numpy array, numpy array
     OUTPUT: float
@@ -34,10 +34,10 @@ def log_likelihood(X, y, coeffs, lbda=1):
     '''
 
     lreg =  np.sum(coeffs**2)
-    hx = hypothesis(X, coeffs)
-    return np.sum(y * np.log(hx) + (1 - y) * np.log(1-hx) + lbda*lreg)
+    hx = hypothesis(X, coeffs).T
+    return np.sum(y * np.log(hx[0]) + (1 - y) * np.log(1-hx[0]) + lbda*lreg)
 
-def log_likelihood_gradient(X, y, coeffs, l=1):
+def log_likelihood_gradient(X, y, coeffs, l=0):
     '''
     INPUT: 2 dimensional numpy array, numpy array, numpy array
     OUTPUT: numpy array
@@ -46,7 +46,7 @@ def log_likelihood_gradient(X, y, coeffs, l=1):
     coeffs. Return an array of the same size as the coeffs array.
     '''
 
-    dlreg = 2*coeffs
+    dlreg = 2*l*coeffs.T
     y = y.reshape(len(y), 1) # column vector
     dif = (y - hypothesis(X, coeffs)).T
 
