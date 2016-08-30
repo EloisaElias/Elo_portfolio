@@ -5,6 +5,8 @@
 
 Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
 
+Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython notebook](http://docs.mathjax.org/en/latest/installation.html#firefox-and-local-fonts) 
+
                                                        Gracias totales
                                                             Elo.
 
@@ -40,29 +42,29 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been 
   	- Summary:
   	- The fun part:
   * 08_Bayesian_analysis.ipynb
-  	- Summary:
-  	- The fun part:
+  	- Summary: Visualizing bayes step by step using a fundamental example
+  	- The fun part: The transformation of the probabilities into a distribution
   * 07_Power_A/B_test
-    - Summary:
-  	- The fun part:
+    - Summary: Hypothesis test and power calculation
+  	- The fun part: Power is everything, know your sample size 
   * 06_Multi_armed_bandit
-  	- Summary:
-  	- The fun part:
+  	- Summary: Selection of a slot machine strategy 
+  	- The fun part: Visualize the the house always win
   * 05_Bayesian_bandit.ipynb
-  	- Summary:
-  	- The fun part:
+  	- Summary: Using this method to compare websites
+  	- The fun part: Visualizing Bayes
   * 04_Estimation_sampling.ipynb
-   	- Summary:
-  	- The fun part:
+   	- Summary:Visualizing and compare distributions
+  	- The fun part: the Gamma vs Normal distributions
   * 03_AB_test.ipynb
-    - Summary:
-  	- The fun part:
+    - Summary: Using the z-test function
+  	- The fun part: Using the formulas to create the z-test function
   * 02_CTR.ipynb
-    - Summary:
-  	- The fun part:
+    - Summary: Click through rate methodology and ttest function.
+  	- The fun part: Using a NYT dataset 
   * 01_Classes
-  	- Summary:
-  	- The fun part: 
+  	- Summary: Using the basic for encapsulation programs
+  	- The fun part: Learning another way to program
   * 00_UCI_Iris_&_wine_df
   	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
   	- The fun part: Playing around with different kind of graphs
