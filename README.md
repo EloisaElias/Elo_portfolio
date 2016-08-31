@@ -73,7 +73,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
   * **03_AB_test.ipynb**
     - Summary: Using the z-test function
-  	- The fun part: Using the formulas to create the z-test function
+  	- The fun part: the z-test function
   
   * **02_CTR.ipynb**
     - Summary: Click through rate methodology and ttest function.
