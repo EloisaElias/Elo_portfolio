@@ -12,44 +12,44 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 - Content
   * **18_Gradient_descend**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Machine learning algorithm
+  	- The fun part: The math and the gradient class function
   	
   * **17_Logistic_regression**
-    - Summary:
-  	- The fun part:
+    - Summary: Classifier algorithm, ROC, Kfold and AUC
+  	- The fun part: the ROC curve
   	
   * **16_Regularization_Regression**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Ridge and Lasso usage in sklearn dataset
+  	- The fun part: Visualizing the best alpha for the model.
   	
   * **15_Cross_Validation**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Comparing models from sklear dataset
+  	- The fun part: The training test size estimator
   	
   * **14_LinearRegression_Credit_card_balances**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Credit card dataset  using multivariate regression
+  	- The fun part: Feature engineering
   	
   * **13_Multivariate_linear_regression**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Applying linear regression methodology to a Statsmodels dataset 
+  	- The fun part: Using plotly for graphics
   	  	
   * **12_Exploratory_Data_Analysis_EDA**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Bike rental dataset
+  	- The fun part: Obtaining the normal behavior of the rental business and the use of the basemap
   	
   * **11_Linear_algebra_PageRank_algorithm**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Fundamentas of numpy examples for data science
+  	- The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
   * **10_Covariance_Joint_distribution**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Analizing university dataset, obtaining potential threshold for admission. 
+  	- The fun part: visualizing the pdf for admission vs income
   	
   * **09_Probability**
-  	- Summary:
-  	- The fun part:
+  	- Summary: Probability excersises
+  	- The fun part: from basic probabilty obtaining interesting inferences
   	
   * **08_Bayesian_analysis.ipynb**
   	- Summary: Visualizing bayes step by step using a fundamental example
@@ -76,7 +76,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	- The fun part: the z-test function
   
   * **02_CTR.ipynb**
-    - Summary: Click through rate methodology and ttest function.
+    - Summary: Click through rate methodology and ttest function
   	- The fun part: Using a NYT dataset 
   
   * **01_Classes**
@@ -85,7 +85,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
   * **00_UCI_Iris_&_wine_df**
   	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
-  	- The fun part: Playing around with different kind of graphs
+  	- The fun part: Using different kind of graphs
   
 
 
