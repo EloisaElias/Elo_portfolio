@@ -11,6 +11,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
                                                             Elo.
 
 - Content
+  * **19_Kearest_Neightbor**
+  	- Summary: Machine learning algorithm
+  	- The fun part: In process
   * **18_Gradient_descend**
   	- Summary: Machine learning algorithm
   	- The fun part: The math and the gradient class function
