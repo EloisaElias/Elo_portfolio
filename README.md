@@ -11,7 +11,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
                                                             Elo.
 
 - Content
-  * **19_Kearest_Neightbor**
+  * **19_KNearest_Neightbor**
   	- Summary: Machine learning algorithm
   	- The fun part: In process
   * **18_Gradient_descend**
