@@ -13,7 +13,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 - Content
   * **19_KNearest_Neightbor**
   	- Summary: Machine learning algorithm
-  	- The fun part: In process
+  	- The fun part: Data needs no preparation for the the algorithm
   	
   * **18_Gradient_descend**
   	- Summary: Machine learning algorithm
