@@ -3,7 +3,7 @@
 ...for my amusement, practice and better comprehension.
 
 
-Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
+Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. Thank you for viewing my portfolio. I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
 
 Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython notebook](http://docs.mathjax.org/en/latest/installation.html#firefox-and-local-fonts) 
 
@@ -14,6 +14,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   * **19_KNearest_Neightbor**
   	- Summary: Machine learning algorithm
   	- The fun part: In process
+  	
   * **18_Gradient_descend**
   	- Summary: Machine learning algorithm
   	- The fun part: The math and the gradient class function
