@@ -10,7 +10,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
                                                        Gracias totales
                                                             Elo.
 
-- Content
+- **Content**
   * **20_Decision_tree**
   	- Summary: Machine learning algorithmry: 
   	- The fun part: In process
