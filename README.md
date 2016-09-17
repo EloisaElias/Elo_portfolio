@@ -8,7 +8,7 @@ Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. Thank you 
 Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython notebook](http://docs.mathjax.org/en/latest/installation.html#firefox-and-local-fonts) 
 
                                                        Gracias totales
-                                                            Elo.
+                                                            Elo
 
 - **Content**
   * **20_Decision_tree**
