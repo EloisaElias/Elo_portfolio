@@ -11,6 +11,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
                                                             Elo
 
 - **Content**
+  * **21_**
+  	- Summary: 
+  	- The fun part: 
   * **20_Decision_tree**
   	- Summary: Machine learning algorithmry 
   	- The fun part: In process
