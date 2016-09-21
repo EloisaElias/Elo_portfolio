@@ -10,7 +10,8 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
                                                        Gracias totales
                                                             Elo
 
-- **Content**
+**Content**
+
   * **21_**
   	- Summary: 
   	- The fun part: 
@@ -95,7 +96,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	- The fun part: Learning another way to program
   
   * **00_UCI_Iris_&_wine_df**
-  	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris.
+  	- Summary: Basic exploratory data analysis (EDA) & logistic regression model of public dataset -Iris
   	- The fun part: Using different kind of graphs
   
 
