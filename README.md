@@ -13,10 +13,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 **Content**
 
   * **21_**
-  	- Summary: 
-  	- The fun part: 
+  	- Summary: Machine learning algorithm 
+  	- The fun part: In process
   * **20_Decision_tree**
-  	- Summary: Machine learning algorithmry 
+  	- Summary: Machine learning algorithm 
   	- The fun part: In process
   	
   * **19_KNearest_Neightbor**
