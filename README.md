@@ -22,7 +22,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 
 
-###21_
+###21
   	Summary: Machine learning algorithm
   	- Advantages:
   	- Downside:
