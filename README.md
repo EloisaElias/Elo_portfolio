@@ -1,7 +1,9 @@
 ## Direction over speed..
 ### ..Once the direction is set, full speed is in order.
 
-Hi, I'm Eloisa and I'm a data scientist that loves math & statistics. Thank you for viewing my portfolio. I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
+Hi, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
+
+I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
 
 ...for my amusement, practice and better comprehension.
 
