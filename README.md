@@ -12,23 +12,42 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 **Content**
 
-  * **21_**
-  	- Summary: Machine learning algorithm 
-  	- The fun part: In process
-  * **20_Decision_tree**
-  	- Summary: Machine learning algorithm 
-  	- The fun part: In process
+###21_
+  	Summary: Machine learning algorithm
+  	- Advantages:
+  	- Downside:
+  	- Solution:
+  		
+  	The fun part: In process
+###20_Decision_tree
+
+  	Summary: Machine learning algorithm  	
+  	- Advantages: no complex data preparation, numerical and categorical data usage, good performance in large datasets 
+  	- Downside: Overfitting
+  	- Solution: Pruning, Random Forests
   	
-  * **19_KNearest_Neightbor**
-  	- Summary: Machine learning algorithm
-  	- The fun part: Data needs no preparation for the the algorithm
+	The fun part: In process  	
+
+###19_KNearest_Neightbor
+  	Summary: Machine learning algorithm
+  	- Advantages:
+  	- Downside:
+  	- Solution:
+  	
+  	The fun part:Data needs no preparation for the the algorithm
 
   * **18_Gradient_descend**
   	- Summary: Machine learning algorithm
+  		- Advantages:
+  		- Downside:
+  		- Solution:
   	- The fun part: The math and the gradient class function
   	
   * **17_Logistic_regression**
     - Summary: Classifier algorithm, ROC, Kfold and AUC
+  		- Advantages:
+  		- Downside:
+  		- Solution:
   	- The fun part: the ROC curve
   	
   * **16_Regularization_Regression**
