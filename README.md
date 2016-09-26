@@ -1,5 +1,5 @@
 ## Direction over speed..
-### ..Once the direction is set, full speed is in order.
+### ..Once the direction is set, full speed is in order
 
 Hi, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
 
@@ -22,7 +22,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 
 
-###21
+###21_
   	Summary: Machine learning algorithm
   	- Advantages:
   	- Downside:
@@ -50,7 +50,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Summary: Machine learning algorithm
   	- Advantages:
   	- Downside:
-  	- Solution:
+  	- Solution: Feature scaling,to find the converge point evaluate the cost funcion throughout the number of iteration.
   	
   	The fun part: The math and the gradient class function
   	
