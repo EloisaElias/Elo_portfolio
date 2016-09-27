@@ -1,5 +1,5 @@
 ## Direction over speed..
-### ..Once the direction is set, full speed is in order
+#### ..Once the direction is set, full speed is in order
 
 Hi, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
 
