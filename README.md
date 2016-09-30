@@ -38,7 +38,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	- Solution: Pruning, Random Forests
 	
 	Dataset: playgolf.csv
-	The fun part: In process  	
+	The fun part: The concept of Entropy in terms of information theory.
 
 ###19_KNearest_Neightbor
   	Summary: Machine learning algorithm
