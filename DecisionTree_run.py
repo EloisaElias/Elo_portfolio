@@ -1,5 +1,5 @@
 import pandas as pd
-from intertools import izip
+from itertools import izip
 from DecisionTree_elo import DecisionTree
 
 def test_tree(filename):
@@ -15,7 +15,7 @@ def test_tree(filename):
   y_predict = tree.predict(X)
   print 'FEATURE, ACTUAl, PREDICTED'
   print '========, ======, ========'
-  for features, true, predicted in izip(X, y, y_predict)
+  for features, true, predicted in izip(X, y, y_predict):
     print '{}, {}, {}'.format(str(features), str(true), str(predicted))
 
 
