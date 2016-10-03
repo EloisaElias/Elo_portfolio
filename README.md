@@ -34,13 +34,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ###20_Decision_tree
 
   	Summary: Machine learning algorithm
+  	Dataset: playgolf.csv
   	
   	Tradeoffs: 	
-  		- Advantages: no complex data preparation, numerical and categorical data usage, good performance in large datasets 
+  		- Advantages: No complex data preparation, numerical and categorical data usage, good performance in large datasets 
   		- Downside: Overfitting
   		- Solution: Pruning, Random Forests
 	
-	Dataset: playgolf.csv
 	The fun part: The concept of Entropy in terms of information theory.
 
 ###19_KNearest_Neightbor
