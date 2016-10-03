@@ -24,18 +24,21 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 ###21_
   	Summary: Machine learning algorithm
-  	- Advantages:
-  	- Downside:
-  	- Solution:
-  		
+  	Tradeoffs:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
+  	Dataset: 
   	The fun part: In process
   	
 ###20_Decision_tree
 
-  	Summary: Machine learning algorithm  	
-  	- Advantages: no complex data preparation, numerical and categorical data usage, good performance in large datasets 
-  	- Downside: Overfitting
-  	- Solution: Pruning, Random Forests
+  	Summary: Machine learning algorithm
+  	
+  	Tradeoffs: 	
+  		- Advantages: no complex data preparation, numerical and categorical data usage, good performance in large datasets 
+  		- Downside: Overfitting
+  		- Solution: Pruning, Random Forests
 	
 	Dataset: playgolf.csv
 	The fun part: The concept of Entropy in terms of information theory.
