@@ -258,9 +258,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: Iris.csv
   	
   	Tradeoffs:
-  	- Advantages:
-  	- Downside:
-  	- Solution:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
   	
   	The fun part: Using different kind of graphs
   
