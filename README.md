@@ -37,6 +37,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
   	Summary: Machine learning algorithm
   	Dataset: playgolf.csv
+  	Related Programs: DecisionTree_elo.py, DecisionTree_run.py, TreeNode_elo.py 
   	
   	Tradeoffs: 	
   		- Advantages: No complex data preparation, discrete and continuous data usage, good performance in large datasets 
