@@ -36,8 +36,8 @@ class DecisionTree(object):
            self.features_name = features_name
         # Create True/False array of whether the variable is categorical
         is_categorical = lambda x: isinstance(x, str) or isinstance(x, bool) or isinstance(x, unicode)
-
         self.categorical = np.vectorize(is_categorical)(X[0])
+
         self.root = self._build_tree(X, y)
 
 
@@ -63,10 +63,11 @@ class DecisionTree(object):
         node = TreeNode() # object instatiation
         index, value, splits = self._choose_split_index(X, y)
         # max_index, max_value, _make_split()
-        # max_index, (Int)Index of feature(to split)
+        # max_index: (Int)Index of feature(to split)
+        # max_value: key with the max value
 
         if index is None or len(np.unique(y)) == 1:
-            node.leaf = True
+            node.leaf = True # (bool) True if node == leaf, otherwise False
             node.classes =  Counter(y)
             node.name = node.classes.most_common(1)[0][0]
 
@@ -74,14 +75,17 @@ class DecisionTree(object):
             X1, y1, X2, y2 = splits
 
             node.column  = index # max_index, (Int)Index of feature(to split)
-            node.name = self.features_name[index]
+            node.name = self.features_name[index] # fit function
             node.value = value # max_value
-            node.categorical = self.categorical[index]
+            node.categorical = self.categorical[index] # fit function
             node.left = self._build_tree(X1, y1)
             node.right = self._build_tree(X2, y2)
         return node
 
     def _entropy(self, y):
+        '''
+        Here there are n classes in the set and Ki is the i-th class of our target y.
+        '''
         # entropy --> impurity
         categories = Counter(y)
         entropy = [] # Quantify how much information(or 'uncertainty') i will gain by learning(ask) about y
@@ -106,10 +110,14 @@ class DecisionTree(object):
         return 1 - sum(gini)
 
     def _make_split(self, X, y, split_index, split_value):
-        # from _choose_split_index:
-        # split_index: max_index, (Int)Index of feature(to split)
-        # split_value: # key with the max value
         '''
+        For categorical features this should split on weather it's equal to the value of not.
+        For continuous, it should split on < or >=.
+
+        From _choose_split_index:
+        split_index: max_index, (Int)Index of feature(to split)
+        split_value: # key with the max value
+
         INPUT:  X - 2d array
                 y - 1d array
                 split_index: int(feature index)
@@ -162,7 +170,8 @@ class DecisionTree(object):
                     X1, y1, X2, y2 = self._make_split(X, y, j, X[i][j]) # x[0,2] = x[0][2]
                     gain = self._information_gain(y, y1, y2)
                     gain_dict[X[i][j]] = gain
-            best_split = max(gain_dict, key= lambda K: gain_dict[K]) # best information gain
+            best_split = max(gain_dict, key= lambda K: gain_dict[K]) # best information gain(key)
+            # key with the max value
 
             if gain_dict[best_split] > max_gain:
                 max_gain = gain_dict[best_split]
