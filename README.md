@@ -27,7 +27,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset:
   	
   	Tradeoffs:
-  		- Advantages:
+  		- Advantages: Cross validation is not strictly necessary, 
   		- Downside:
   		- Solution:
   	 
