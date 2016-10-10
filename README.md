@@ -24,7 +24,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 ###21_Random_forest
   	Summary: Machine learning algorithm
-  	Dataset:
+  	Dataset: https://archive.ics.uci.edu/ml/datasets
   	
   	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary, 
@@ -35,7 +35,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###20_Decision_tree
 
-  	Summary: Machine learning algorithm
+  	Summary: Decision Trees (DTs) are a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
   	Dataset: playgolf.csv
   	Related Programs: DecisionTree_elo.py, DecisionTree_run.py, TreeNode_elo.py 
   	
