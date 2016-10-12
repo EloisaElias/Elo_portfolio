@@ -23,7 +23,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 
 ###21_Random_forest
-  	Summary: Machine learning algorithm
+  	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data)
   	Dataset: https://archive.ics.uci.edu/ml/datasets
   	
   	Tradeoffs:
