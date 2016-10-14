@@ -1,12 +1,11 @@
-## Direction over speed
-
-#### ..Effective & Efficiency
+## Direction over speed..
+#### Effective & Efficiency
 
 Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
 
 I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
 
-...for my amusement, practice and better comprehension.
+..for my amusement, practice and better comprehension
 
 
 
