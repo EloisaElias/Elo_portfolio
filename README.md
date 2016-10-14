@@ -1,4 +1,5 @@
-## Direction over speed..
+## Direction over speed
+
 #### ..Effective & Efficiency
 
 Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
