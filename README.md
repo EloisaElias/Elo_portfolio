@@ -20,6 +20,17 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
+###23_
+  	Summary: Machine learning algorithm
+  	Dataset:
+  	
+  	Tradeoffs:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
+  	
+  	The fun part: In process
+  	
 ###22_Random_forest_ROC
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data)
   	Dataset: Churn.csv
@@ -29,7 +40,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Downside:
   		- Solution:
   	 
-  	The fun part: The confusion matrix and the receiver operating characteristic
+  	The fun part: (In process)The confusion matrix and the receiver operating characteristic
   	
 ###21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
