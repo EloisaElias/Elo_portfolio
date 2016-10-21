@@ -22,266 +22,339 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ###23_
   	Summary: Machine learning algorithm
-  	Dataset:
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
   	
+  	Dataset:
+  	Related Programs: 
+  	
   	The fun part: In process
   	
 ###22_Random_forest_ROC
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data)
-  	Dataset: Churn.csv
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary
   		- Downside:
   		- Solution:
-  	 
+  		
+  	Dataset: Churn.csv
+  	Related Programs: 
+  	
   	The fun part: (In process)The confusion matrix and the receiver operating characteristic
   	
 ###21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
-  	Dataset: https://archive.ics.uci.edu/ml/datasets
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary, 
   		- Downside:
   		- Solution:
+  	
+  	Dataset: https://archive.ics.uci.edu/ml/datasets
+  	Related Programs: 
   	 
   	The fun part: Random_forest class and node.
   	
 ###20_Decision_tree
 
   	Summary: Decision Trees (DTs) are a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
-  	Dataset: playgolf.csv
-  	Related Programs: DecisionTree_elo.py, DecisionTree_run.py, TreeNode_elo.py 
+  	Goal: 
   	
   	Tradeoffs: 	
   		- Advantages: No complex data preparation, discrete and continuous data usage, good performance in large datasets 
   		- Downside: Overfitting, computationally expensive to train.
   		- Solution: Prepruning, Pruning, Random Forests
 	
+	Dataset: playgolf.csv
+  	Related Programs: DecisionTree_elo.py, DecisionTree_run.py, TreeNode_elo.py
+	
 	The fun part: The concept of Entropy in terms of information theory.
 
 ###19_KNearest_Neightbor
   	Summary: Machine learning algorithm
-  	Dataset:
+  	
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  		
+  	Dataset:
+  	Related Programs
   	
   	The fun part:Data needs no preparation for the the algorithm
 
 ###18_Gradient_descend
   	Summary: Machine learning algorithm
-  	Dataset:
+  	Goal: The goal of gradient descent is to minimize a function via greedy local search. For this case is Logistic regression function.
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution: Feature scaling,to find the converge point evaluate the cost funcion throughout the number of iteration.
   	
+  	Dataset:
+  	Related Programs
+  	
   	The fun part: The math and the gradient class function
   	
 ###17_Logistic_regression
     Summary: Classifier algorithm, ROC, Kfold and AUC
-    Dataset:
-  	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	The fun part: the ROC curve
-  	
-###16_Regularization_Regression
-  	Summary: Ridge and Lasso usage in sklearn dataset
-  	Dataset:
-  	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	The fun part: Visualizing the best alpha for the model.
-  	
-###15_Cross_Validation
-  	Summary: Comparing models from sklear dataset
-  	Dataset:
-  	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	The fun part: The training test size estimator
-  	
-###14_LinearRegression_Credit_card_balances
-  	Summary: Credit card dataset  using multivariate regression
-  	Dataset:
+    Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
   		
+  	Dataset:
+  	Related Programs
+  	
+  	The fun part: the ROC curve
+  	
+###16_Regularization_Regression
+  	Summary: Ridge and Lasso   	
+  	Goal:
+  	
+  	Tradeoffs:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
+  	
+  	Dataset:
+  	Related Programs
+  	
+  	The fun part: Visualizing the best alpha for the model.
+  	
+###15_Cross_Validation
+  	Summary: Comparing models - sklear dataset
+  	Goal:
+  	
+  	Tradeoffs:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
+  		
+  	Dataset:
+  	Related Programs
+  	
+  	The fun part: The training test size estimator
+  	
+###14_LinearRegression_Credit_card_balances
+  	Summary: Credit card analysis - multivariate regression
+  	Goal:
+  	
+  	Tradeoffs:
+  		- Advantages:
+  		- Downside:
+  		- Solution:
+  		
+  	Dataset:
+  	Related Programs:
+  		
   	The fun part: Feature engineering
   	
 ###13_Multivariate_linear_regression
-  	Summary: Applying linear regression methodology to a Statsmodels dataset
-  	Dataset:
+  	Summary: Linear regression   	
+  	Goal:
   	
   	Tradeoffs: 
   		- Advantages:
   		- Downside:
   		- Solution:
-  		
+  	
+  	Dataset:
+  	Related Programs:
+  	  		
   	The fun part: Using plotly for graphics
   	  	
 ###12_Exploratory_Data_Analysis_EDA
-  	Summary: Bike rental dataset
-  	Dataset:
+  	Summary: Business analysis - Bike rental 
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Obtaining the normal behavior of the rental business and the use of the basemap
   	
 ###11_Linear_algebra_PageRank_algorithm
   	Summary: Fundamentas of numpy examples for data science
-  	Dataset:
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
+  	
   	The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
 ###10_Covariance_Joint_distribution
-  	Summary: Analizing university dataset, obtaining potential threshold for admission
-  	Dataset:
+  	Summary: Analizing a university dataset, obtaining potential threshold for admission
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: visualizing the pdf for admission vs income
   	
 ###09_Probability
   	Summary: Probability excersises
-  	Dataset:
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: from basic probabilty obtaining interesting inferences
   	
 ###08_Bayesian_analysis.ipynb
-  	Summary: Visualizing bayes step by step using a fundamental example
-  	Dataset:
+  	Summary: Visualizing Bayes step by step
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: The transformation of the probabilities into a distribution
   	
 ###07_Power_A/B_test
     Summary: Hypothesis test and power calculation
-    Dataset:
+    Goal:
   	
   	Tradeoffs:
     	- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Power is everything, know your sample size 
   
 ###06_Multi_armed_bandit
   	Summary: Selection of a slot machine strategy 
-  	Dataset:
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Visualize the the house always win
   
 ###05_Bayesian_bandit
-  	Summary: Using this method to compare websites
-  	Dataset:
+  	Summary: Comparing websites
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Visualizing Bayes
   
 ###04_Estimation_sampling
-   	Summary:Visualizing and compare distributions
-   	Dataset:
+   	Summary:Data distribution
+   	Goal:
   	
   	Tradeoffs:
    		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: the Gamma vs Normal distributions
   
 ###03_AB_test
-    Summary: Using the z-test function
-    Dataset:
+    Summary: Z-test function
+    Goal:
   	
   	Tradeoffs:
     	- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: the z-test function
   
 ###02_CTR
-    Summary: Click through rate methodology and ttest function
-    Dataset:
+    Summary: Click through rate methodology and t-test function
+    Goal:
   	
   	Tradeoffs:
     	- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Using a NYT dataset 
   
 ###01_Classes
-  	Summary: Using the basic for encapsulation programs
-  	Dataset:
+  	Summary: Encapsulation programs
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset:
+  	Related Programs:
   		
   	The fun part: Learning another way to program
   
 ###00_UCI_Iris_&_wine_df
-  	Summary: Basic exploratory data analysis (EDA) & logistic regression model
-  	Dataset: Iris.csv
+  	Summary: Exploratory data analysis (EDA) & logistic regression model
+  	Goal:
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
+  	
+  	Dataset: Iris.csv
+  	Related Programs:
   	
   	The fun part: Using different kind of graphs
   
