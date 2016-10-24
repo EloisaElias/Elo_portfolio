@@ -94,7 +94,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
 ###18_Gradient_descend
   	Summary: Machine learning algorithm
-  	Goal: The goal of gradient descent is to minimize a function via greedy local search. For this case is Logistic regression function.
+  	Goal: The goal of gradient descent is to minimize a function via greedy local search. For this case is Logistic regression function. Obtain the parameters that minimize my function.
   	
   	Tradeoffs:
   		- Advantages:
