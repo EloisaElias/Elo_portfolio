@@ -88,21 +88,22 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution:
   		
   	Dataset:
-  	Related Programs
+  	Related Programs:
   	
   	The fun part:Data needs no preparation for the the algorithm
 
 ###18_Gradient_descend
-  	Summary: Machine learning algorithm
-  	Goal: The goal of gradient descent is to minimize a function (the cost function of the hypothesis or the square errors of the hypothesis). For this case is Logistic regression function. Obtain the parameters that minimize my function.
+  	Summary: Machine learning - Optimization algorithm
+  	Goal: The goal of gradient descent is to minimize a function (the cost function of the hypothesis or the square errors of the hypothesis). For this case is Logistic regression function. Obtain the parameters that minimize my function. h(θ) --> j(θ) --> min_θ j(θ).
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution: Feature scaling,to find the converge point evaluate the cost funcion throughout the number of iteration.
+  		- Advantages: The use of vectorization.
+  		- Downside:Overfitting
+  		- Solution: Feature scaling, manual selection of features, Ridge-Lasso regularization.
   	
+  	Related optimization algorithms: Conjugated gradient, BFGS, L-BFGS.
   	Dataset:
-  	Related Programs
+  	Related Programs:
   	
   	The fun part: The math and the gradient class function
   	
@@ -116,7 +117,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution:
   		
   	Dataset:
-  	Related Programs
+  	Related Programs:
   	
   	The fun part: the ROC curve
   	
@@ -130,7 +131,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution:
   	
   	Dataset:
-  	Related Programs
+  	Related Programs:
   	
   	The fun part: Visualizing the best alpha for the model.
   	
@@ -144,7 +145,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution:
   		
   	Dataset:
-  	Related Programs
+  	Related Programs:
   	
   	The fun part: The training test size estimator
   	
