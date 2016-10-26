@@ -98,7 +98,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	Tradeoffs:
   		- Advantages: The use of vectorization.
-  		- Downside:Overfitting
+  		- Downside: Overfitting
   		- Solution: Feature scaling, manual selection of features, Ridge-Lasso regularization.
   	
   	Related optimization algorithms: Conjugated gradient, BFGS, L-BFGS.
