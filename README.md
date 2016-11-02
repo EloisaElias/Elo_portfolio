@@ -193,12 +193,12 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###11_Linear_algebra_PageRank_algorithm
   	Summary: Markov chain and linear algebra
-  	Goal: Implementing the PageRank Algorithm
+  	Goal: Implementing the PageRank algorithm
   	
   	Tradeoffs
   		- Advantages: No complex ranking algorithm
   	
-  	Dataset: Iris
+  	Dataset: Sklearn dataset - Iris
   	
   	The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
