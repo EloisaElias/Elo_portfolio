@@ -192,16 +192,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: Obtaining the normal behavior of the rental business and the use of the basemap
   	
 ###11_Linear_algebra_PageRank_algorithm
-  	Summary: Fundamentas of numpy examples for data science
-  	Goal:
+  	Summary: Markov chain and linear algebra
+  	Goal: Implementing the PageRank Algorithm
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  	Tradeoffs
+  		- Advantages: No complex ranking algorithm
   	
-  	Dataset:
-  	Related Programs:
+  	Dataset: Iris
   	
   	The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
