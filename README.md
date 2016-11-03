@@ -35,14 +35,15 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: In process
   	
 ###22_Random_forest_ROC
-  	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data)
+  	Summary: Receiver Operating Characteristics (ROC) graphs are a useful technique for organizing classifiers and visualizing their 
+performance. 
+  
   	Goal:
-  	
-  	Tradeoffs:
-  		- Advantages: Cross validation is not strictly necessary
-  		- Downside:RF  is a predictive modelling tool, slow to create predictions once trained, More accurate ensembles require more trees.
-  		- Solution:RF is a highly parallel algorithm , so if you have multiple cores, you can get a significant speedup.  
-  		
+  	  	Tradeoffs:
+  		- Advantages: Cross validation is not strictly necessary. 
+  		- Downside:Confidence scores (threshold) used to build ROC curves may be difficult to assign.
+  		- Solution: Alternatives to ROC graphs: DET curves, Cost curves.
+  	  		
   	Dataset: Churn.csv
   	Related Programs: 
   	
@@ -53,9 +54,11 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Goal:
   	
   	Tradeoffs:
-  		- Advantages: Cross validation is not strictly necessary, 
-  		- Downside:
-  		- Solution:
+  		- Advantages: Cross validation is not strictly necessary
+  		- Downside:RF  is a predictive modelling tool, slow to create predictions once trained, More accurate ensembles require more trees.
+  		- Solution:RF is a highly parallel algorithm , so if you have multiple cores, you can get a significant speedup.  
+
+
   	
   	Dataset: https://archive.ics.uci.edu/ml/datasets
   	Related Programs: 
