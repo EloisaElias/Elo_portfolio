@@ -35,9 +35,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: In process
   	
 ###22_Random_forest_ROC
-  	Summary: Receiver Operating Characteristics (ROC) graphs are a useful technique for organizing classifiers and visualizing their 
-performance. 
-  
+  	
+  	Summary: Receiver Operating Characteristics (ROC) graphs are a useful technique for organizing classifiers and visualizing their performance. 
+ 
   	Goal:
   	  	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary. 
