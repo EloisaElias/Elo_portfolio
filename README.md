@@ -40,13 +40,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary
-  		- Downside:
-  		- Solution:
+  		- Downside:RF  is a predictive modelling tool, slow to create predictions once trained, More accurate ensembles require more trees.
+  		- Solution:RF is a highly parallel algorithm , so if you have multiple cores, you can get a significant speedup.  
   		
   	Dataset: Churn.csv
   	Related Programs: 
   	
-  	The fun part: (In process)The confusion matrix and the receiver operating characteristic
+  	The fun part: The confusion matrix and the receiver operating characteristic
   	
 ###21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
@@ -60,7 +60,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: https://archive.ics.uci.edu/ml/datasets
   	Related Programs: 
   	 
-  	The fun part: Random_forest class and node.
+  	The fun part: The RF class and nodes.
   	
 ###20_Decision_tree
 
@@ -198,7 +198,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Tradeoffs
   		- Advantages: No complex ranking algorithm
   	
-  	Dataset: Sklearn dataset - Iris
+  	Dataset: Sklearn dataset - Iris.csv
   	
   	The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
