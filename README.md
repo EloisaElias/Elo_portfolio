@@ -126,15 +126,15 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###16_Regularization_Regression
   	Summary: Ridge and Lasso   	
-  	Goal:
+  	Goal: Addressing overfitting
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: Works well when we have a lot of features each of which contributes a bit to predicting y. Keep all features, but reduce magnitude/values of parameters θj. 
+  		- Downside: a) For n<<p case (high dimensional case), LASSO can at most select n features. b) For usual case where we have correlated features which is usually the case for real word datasets, LASSO will select only one feature from a group of correlated features. c) For n>>p case, it is seen that for correlated features , Ridge (Tikhonov Regularization) regression has better prediction power than LASSO. 
+  		- Solution: Model selection algorithm
   	
-  	Dataset:
-  	Related Programs:
+  	Dataset: sklearn.datasets - load_diabetes()
+  	
   	
   	The fun part: Visualizing the best alpha for the model.
   	
