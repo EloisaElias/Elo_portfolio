@@ -354,10 +354,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Downside:
   		- Solution:
   	
-  	Dataset: Iris.csv
-  	Related Programs:
+  	Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases & Iris.csv
   	
-  	The fun part: Using different kind of graphs
+  	The fun part: Graphs
   
 
 
