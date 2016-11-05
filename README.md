@@ -347,12 +347,12 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###00_UCI_Iris_&_wine_df
   	Summary: Exploratory data analysis (EDA) & logistic regression model
-  	Goal:
+  	Goal: Visualizing the data
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: Visualize the shape of our data
+  		- Downside: Takes some valuable time
+  		- Solution: It's worth to visualize our datase before start doing stats
   	
   	Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases & Iris.csv
   	
