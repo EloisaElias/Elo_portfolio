@@ -333,15 +333,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###01_Classes
   	Summary: Encapsulation programs
-  	Goal:
+  	Goal: Understanding classes
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+  		- Advantages: Encapsulation programming
   		
   	The fun part: Learning another way to program
   
