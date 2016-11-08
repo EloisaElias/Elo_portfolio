@@ -20,8 +20,8 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
-###23_
-  	Summary: Machine learning algorithm
+###23_SVM
+  	Summary: Support Vector Machine - learning algorithm
   	Goal:
   	
   	Tradeoffs:
@@ -336,7 +336,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Goal: Understanding classes
   	
   	Tradeoffs:
-  		- Advantages: Encapsulation programming
+  		- Advantages: Object Oriented programming
   		
   	The fun part: Learning another way to program
   
