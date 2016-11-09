@@ -21,7 +21,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### Content
 ---
 ###23_SVM
-  	Summary: Support Vector Machine - learning algorithm
+  	Summary: Support Vector Machine - Linear SVM
   	Goal:
   	
   	Tradeoffs:
