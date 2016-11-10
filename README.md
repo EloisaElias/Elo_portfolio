@@ -22,14 +22,15 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ###23_SVM
   	Summary: Support Vector Machine - Linear SVM
-  	Goal:
+  	Goal: Logistic Regression boundary and SVM boundary comparison
+
   	
   	Tradeoffs:
   		- Advantages:
   		- Downside:
   		- Solution:
   	
-  	Dataset:
+  	Dataset: csv
   	Related Programs: 
   	
   	The fun part: In process
