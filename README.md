@@ -20,7 +20,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
-###24_SVM
+###24_SVM_hyperparameter_C
   	Summary: Support Vector Machine 
   	Goal: 
 
