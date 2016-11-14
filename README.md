@@ -65,7 +65,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
-  	Goal:
+  	Goal: Step by step manual RF
   	
   	Tradeoffs:
   		- Advantages: Cross validation is not strictly necessary
@@ -75,7 +75,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
   	
   	Dataset: https://archive.ics.uci.edu/ml/datasets
-  	Related Programs: 
+  	Related Programs: RF
   	 
   	The fun part: The RF class and nodes.
   	
