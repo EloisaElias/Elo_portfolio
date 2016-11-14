@@ -119,8 +119,8 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution: Feature scaling, manual selection of features, Ridge-Lasso regularization.
   	
   	Related optimization algorithms: Conjugated gradient, BFGS, L-BFGS.
-  	Dataset:
-  	Related Programs:
+  	Dataset: from sklearn.datasets import make_classification
+  	Related Programs: Gradient.py
   	
   	The fun part: The math and the gradient class function
   	
