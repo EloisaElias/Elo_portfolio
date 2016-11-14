@@ -22,18 +22,17 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ###24_SVM_hyperparameter_C
   	Summary: Support Vector Machine 
-  	Goal: 
+  	Goal: Use of hyperparameter C and grid search optimization 
 
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  	Tradeoffs: SVMs have a tradeoff between maximizing the margin and minimizing the classification error.
+  		- Advantages: Best parameters set found by using tuning hyper-parameters GridSearchCV() 
+  		- Downside: Takes a long time for multiple folds
+  		- Solution: Training with a sample data, or reduce the folds qty.
   	
-  	Dataset: csv
-  	Related Programs: 
+  	Dataset: sklearn load_digits() & other cvs files.
   	
-  	The fun part: In process
+  	The fun part: Grid search
 ###23_SVM
   	Summary: Support Vector Machine - Linear SVM
   	Goal: Logistic Regression boundary and SVM boundary comparison
