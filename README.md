@@ -39,9 +39,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: a) Linear and non-linear classification  b) Usage of soft margins c) Kernel- transformation d)regularisation parameter, which makes the user think about avoiding over-fitting e)SVM is defined by a convex optimisation problem 
+Performance Evaluation 
+  		- Downside:a)Journal of Machine Learning Research 11 (2010) 2079-2107 Submitted 10/09; Revised 3/10; Published 7/10 On Over-fitting in Model Selection and Subsequent Selection Bias in Performance Evaluation
+  		- Solution:over-fitting in model selection can be over come using methods that have already been effective in preventing over-fitting during trainin g, such as regularisation as  Kernel Ridge Regression (KRR) classifier.
   	
   	Dataset: csv
   	Related Programs: 
