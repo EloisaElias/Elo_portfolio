@@ -82,7 +82,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ###20_Decision_tree
 
   	Summary: Decision Trees (DTs) are a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
-  	Goal: Step by step manual RF
+  	Goal: Step by step manual DT
   	
   	Tradeoffs: 	
   		- Advantages: No complex data preparation, discrete and continuous data usage, good performance in large datasets 
@@ -97,7 +97,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ###19_KNearest_Neightbor
   	Summary: Nearest neighbor search (NNS), also known as proximity search, similarity search or closest point search, is an optimization problem for finding closest (or most similar) points
   	
-  	Goal: Step by step manual RF
+  	Goal: Step by step manual KNN
   	
   	Tradeoffs:
   		- Advantages: a)Simple implementation, 
