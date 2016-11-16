@@ -95,17 +95,17 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 	The fun part: The concept of Entropy in terms of information theory.
 
 ###19_KNearest_Neightbor
-  	Summary: Machine learning algorithm
+  	Summary: Nearest neighbor search (NNS), also known as proximity search, similarity search or closest point search, is an optimization problem for finding closest (or most similar) points
   	
   	Goal:
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: a)Simple implementation, 
+  		- Downside: a)Determine the value of parameter K, b)Computationally intensive, c)It doesn't handle categorical variables very well, d)Highly susceptible to the curse of dimensionality
+  		- Solution: Two classical algorithms can be used to speed up the NN search 1)Bucketing(a.k.a Elias’s algorithm) [Welch 1971], 2)k-d trees [Bentley, 1975; Friedman et al, 1977]
   		
-  	Dataset:
-  	Related Programs:
+  	Dataset: from sklearn.datasets import make_classification
+  	Related Programs: Knn.py
   	
   	The fun part:Data needs no preparation for the the algorithm
 
