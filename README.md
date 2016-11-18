@@ -154,15 +154,15 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###15_Cross_Validation
   	Summary: Comparing models - sklear dataset
-  	Goal:
+  	Goal: The goal is to evaluate the model given  metric I'm interested in.
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: The error value will plateau out after a certain m, or training set size.
+  		- Downside: If a learning algorithm is suffering from high bias, getting more training data will not (by itself) help much.
+  		- Solution:a)For high variance, we have the following relationships in terms of the training set size: With high variance a1)Low training set size:  Jtrain(Θ) will be low and JCV(Θ) will be high., a2)Large training set size: Jtrain(Θ) increases with training set size and JCV(Θ) continues to decrease without leveling off. Also, Jtrain(Θ)<JCV(Θ) but the difference between them remains significant.b)If a learning algorithm is suffering from high variance, getting more training data is likely to help.
   		
-  	Dataset:
-  	Related Programs:
+  	Dataset: from sklearn.datasets import load_boston
+
   	
   	The fun part: The training test size estimator
   	
