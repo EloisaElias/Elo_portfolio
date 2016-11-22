@@ -72,8 +72,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Downside:RF  is a predictive modelling tool, slow to create predictions once trained, More accurate ensembles require more trees.
   		- Solution:RF is a highly parallel algorithm , so if you have multiple cores, you can get a significant speedup.  
 
-
-  	
   	Dataset: https://archive.ics.uci.edu/ml/datasets
   	Related Programs: RF
   	 
