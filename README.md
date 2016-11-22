@@ -126,15 +126,14 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###17_Logistic_regression
     Summary: Classifier algorithm, ROC, Kfold and AUC
-    Goal:
+    Goal: Obtain ROC curve
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: a)Logistic regression will work better if there's a single decision boundar, b)Logistic regression is intrinsically simple. c)Important to consider regularization
+  		- Downside: a)The explanatory variables should not be highly correlated with one another because this could cause problems with estimation.response variable.
+  		- Solution: Correct for multicolinearity among features.
   		
-  	Dataset:
-  	Related Programs:
+  	Dataset: from sklearn.datasets import make_classification
   	
   	The fun part: the ROC curve
   	
