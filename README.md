@@ -179,12 +179,12 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###13_Multivariate_linear_regression
   	Summary: Linear regression   	
-  	Goal:
+  	Goal: Develop multivariate linear regression
   	
   	Tradeoffs: 
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: Linear regression implements a statistical model that, when relationships between the independent variables and the dependent variable are almost linear, shows optimal results. 
+  		- Downside: If you are using regression analysis to generate predictions. Prediction intervals are calculated based on the assumption that the residuals are normally distributed. If the residuals are non-normal, the prediction intervals may be inaccurate.
+  		- Solution: Normalizing the dataset, Independence of the observations, Avoiding multicollinearity among features by Compare the heteroscedasticity of residuals before and after taking log.
   	
   	Dataset:
   	Related Programs:
