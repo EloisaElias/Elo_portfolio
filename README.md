@@ -193,15 +193,14 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	  	
 ###12_Exploratory_Data_Analysis_EDA
   	Summary: Business analysis - Bike rental 
-  	Goal:
+  	Goal: Develop exploratory data analysis and apply linear regression algoritm in order to recomend the specific date with maximum spread of promotional campaign for a business (rental). The goal is to find the coefficients β which fit the equations "best," in the sense of solving the quadratic minimization problem
   	
   	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
+  		- Advantages: The numerical methods for linear least squares are important because linear regression models are among the most important types of model, both as formal statistical models and for exploration of data-sets. The majority of statistical computer packages contain facilities for regression analysis that make use of linear least squares computations. Hence it is appropriate that considerable effort has been devoted to the task of ensuring that these computations are undertaken efficiently and with due regard to round-off error.
+  		- Downside:In these cases, the least squares estimate amplifies the measurement noise and may be grossly inaccurate
+  		- Solution:Various regularization techniques can be applied e.g. LASSO|RIDGE
   	
-  	Dataset:
-  	Related Programs:
+  	Dataset: cvs
   		
   	The fun part: Obtaining the normal behavior of the rental business and the use of the basemap
   	
