@@ -165,16 +165,11 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###14_LinearRegression_Credit_card_balances
   	Summary: Credit card analysis - multivariate regression
-  	Goal:
+  	Goal:The task is to predict an individual's balance based on various variables and feature engineering - Using adjusted R^2 or F-tests and VIF to detect multicollinearity.
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  		
-  	Dataset:
-  	Related Programs:
-  		
+
+  	Dataset: csv
+  	
   	The fun part: Feature engineering
   	
 ###13_Multivariate_linear_regression
@@ -186,7 +181,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Downside: If you are using regression analysis to generate predictions. Prediction intervals are calculated based on the assumption that the residuals are normally distributed. If the residuals are non-normal, the prediction intervals may be inaccurate.
   		- Solution: Normalizing the dataset, Independence of the observations, Avoiding multicollinearity among features by Compare the heteroscedasticity of residuals before and after taking log.
   	
-  	Dataset:
+  	Dataset: csv
   	Related Programs:
   	  		
   	The fun part: Using plotly for graphics
