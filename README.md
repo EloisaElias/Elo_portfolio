@@ -61,7 +61,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: Churn.csv
   	Related Programs: 
   	
-  	The fun part: The confusion matrix and the receiver operating characteristic
+  	The fun part: The confusion matrix and the receiver operating characteristic, amd feature importance.
   	
 ###21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
