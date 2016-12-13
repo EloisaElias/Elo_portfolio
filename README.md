@@ -20,6 +20,32 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
+###26_AdaBoosting_Classsifier
+  	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
+  	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: Grid search
+###25_Boosting
+  	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
+  	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: Grid search
 ###24_SVM_hyperparameter_C
   	Summary: Support Vector Machine 
   	Goal: Use of hyperparameter C and grid search optimization 
