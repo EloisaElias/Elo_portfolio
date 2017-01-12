@@ -20,6 +20,45 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
+###30_
+  	Summary: 
+  	Goal: 
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: 
+###29_
+  	Summary: 
+  	Goal: 
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: 
+###28_
+  	Summary: 
+  	Goal: 
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: 
 ###27_Profit_curve
   	Summary: 
   	Goal: 
@@ -138,8 +177,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	Tradeoffs:
   		- Advantages: a)Simple implementation, 
-  		- Downside: a)Determine the value of parameter K, b)Computationally intensive, c)It doesn't handle categorical variables very well, d)Highly susceptible to the curse of dimensionality
-  		- Solution: Two classical algorithms can be used to speed up the NN search 1)Bucketing(a.k.a Elias’s algorithm) [Welch 1971], 2)k-d trees [Bentley, 1975; Friedman et al, 1977]
+  		- Downside: a)Determine the value of parameter K, b)Computationally intensive, c)It doesn't handle categorical variables very well, d)A shortcoming of the k-NN algorithm is that it is sensitive to the local structure of the data.  		- Solution: Two classical algorithms can be used to speed up the NN search 1)Bucketing(a.k.a Elias’s algorithm) [Welch 1971], 2)k-d trees [Bentley, 1975; Friedman et al, 1977]
   		
   	Dataset: from sklearn.datasets import make_classification
   	Related Programs: Knn.py
