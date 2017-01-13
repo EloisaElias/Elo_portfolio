@@ -20,6 +20,19 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
+###31_
+  	Summary: 
+  	Goal: 
+
+  	
+  	Tradeoffs: 
+  		- Advantages:   		
+  		- Downside: 
+  		- Solution: 
+  	
+  	Dataset: 
+  	
+  	The fun part: 
 ###30_
   	Summary: 
   	Goal: 
