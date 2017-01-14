@@ -414,17 +414,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###02_CTR
     Summary: Click through rate methodology and t-test function
-    Goal:
   	
   	Tradeoffs:
-    	- Advantages:
-  		- Downside:
-  		- Solution:
+    	- Advantages: The purpose of click-through rates is to measure the ratio of clicks to impressions of an online ad or email marketing campaign. 
   	
-  	Dataset:
-  	Related Programs:
-  		
-  	The fun part: Using a NYT dataset 
+  	Dataset: NYT dataset 
+  	
+  	The fun part: T-tests
   
 ###01_Classes
   	Summary: Encapsulation programs
