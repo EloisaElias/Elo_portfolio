@@ -20,58 +20,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
-###31_
-  	Summary: 
-  	Goal: 
-
-  	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
-  	
-  	The fun part: 
-###30_
-  	Summary: 
-  	Goal: 
-
-  	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
-  	
-  	The fun part: 
-###29_
-  	Summary: 
-  	Goal: 
-
-  	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
-  	
-  	The fun part: 
-###28_
-  	Summary: 
-  	Goal: 
-
-  	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
-  	
-  	The fun part: 
+ 
 ###27_Profit_curve
   	Summary: 
   	Goal: 
