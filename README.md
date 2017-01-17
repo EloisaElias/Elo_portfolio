@@ -302,15 +302,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###10_Covariance_Joint_distribution
   	Summary: Analizing a university dataset, obtaining potential threshold for admission
-  	Goal:
-  	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+  	Goal: Covariance and other statistics functions
+ 
+  	Dataset: Admisiones.csv
   		
   	The fun part: visualizing the pdf for admission vs income
   	
