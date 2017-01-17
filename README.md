@@ -309,17 +309,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: visualizing the pdf for admission vs income
   	
 ###09_Probability
-  	Summary: Probability excersises
-  	Goal:
+  	Summary: Probability excercises
+  	Goal: Basic probability using python
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
-  		
   	The fun part: from basic probabilty obtaining interesting inferences
   	
 ###08_Bayesian_analysis.ipynb
