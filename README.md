@@ -316,15 +316,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###08_Bayesian_analysis.ipynb
   	Summary: Visualizing Bayes step by step
-  	Goal:
-  	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+ 
+  
+  	Related Programs: Bayes_elo.py
   		
   	The fun part: The transformation of the probabilities into a distribution
   	
@@ -337,8 +331,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Downside:
   		- Solution:
   	
-  	Dataset:
-  	Related Programs:
+  	Related Programs: 
   		
   	The fun part: Power is everything, know your sample size 
   
