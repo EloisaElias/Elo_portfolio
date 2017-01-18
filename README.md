@@ -290,16 +290,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###05_Bayesian_bandit
   	Summary: Comparing websites
-  	Goal:
+  	Goal: AB test using Bayes
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
-  		
+  	Dataset: AB test
+ 		
   	The fun part: Visualizing Bayes
   
 ###04_Estimation_sampling
