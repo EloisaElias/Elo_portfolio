@@ -273,16 +273,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ###07_Power_A/B_test
     Summary: Hypothesis test and power calculation
-    Goal:
+    Goal: Power in Python
   	
-  	Tradeoffs:
-    	- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Related Programs: 
   		
-  	The fun part: Power is everything, know your sample size 
+  	The fun part: From the frequentist point of view Power is everything. 
   
 ###06_Multi_armed_bandit
   	Summary: Selection of a slot machine strategy 
