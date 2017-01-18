@@ -286,15 +286,11 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###06_Multi_armed_bandit
   	Summary: Selection of a slot machine strategy 
-  	Goal:
+  	Goal: Visializing the trials proportions
+  
   	
-  	Tradeoffs:
-  		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+  	Dataset: Discrete
+  	Related Programs: Multiarm_elo
   		
   	The fun part: Visualize the the house always win
   
