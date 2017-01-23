@@ -298,15 +298,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   
 ###04_Estimation_sampling
    	Summary:Data distribution
-   	Goal:
+   	Goal: Use of diferent distributions
+ 
   	
-  	Tradeoffs:
-   		- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+  	Dataset: rainfall.csv
   		
   	The fun part: the Gamma vs Normal distributions
   
