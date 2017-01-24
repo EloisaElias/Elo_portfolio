@@ -306,16 +306,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: the Gamma vs Normal distributions
   
 ###03_AB_test
-    Summary: Z-test function
-    Goal:
+    Summary: Z-test 
+    Goal: Test statistic of A/B test
   	
-  	Tradeoffs:
-    	- Advantages:
-  		- Downside:
-  		- Solution:
-  	
-  	Dataset:
-  	Related Programs:
+  	Dataset: csv
   		
   	The fun part: the z-test function
   
