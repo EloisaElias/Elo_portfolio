@@ -22,42 +22,27 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
  
 ###27_Profit_curve
-  	Summary: 
-  	Goal: 
-
+  	Summary: Profit Curves allow us to compare models and select the one that will maximize profit for a specified cost-benefit
+  	Goal: Obtain the maximum profit transaccion per classifier.
   	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
+  	Dataset: churn.csv
   	
-  	Dataset: 
-  	
-  	The fun part: 
+  	The fun part:Calculation of the higher profit per transaction.
 ###26_AdaBoosting_Classsifier
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
 
+ 
   	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
+  	Dataset: spam.csv
   	
   	The fun part: Grid search
 ###25_Boosting
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
 
-  	
-  	Tradeoffs: 
-  		- Advantages:   		
-  		- Downside: 
-  		- Solution: 
-  	
-  	Dataset: 
+  
+  	Dataset: sklearn.dataset
   	
   	The fun part: Grid search
 ###24_SVM_hyperparameter_C
