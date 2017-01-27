@@ -20,7 +20,15 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
- 
+  
+###30_K_means
+  	Summary: k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
+  	Goal: Visualizing
+  	
+  	Dataset: Sklearn.dataset - Iris
+  	
+  	The fun part: Visualization of the Sklearn vs K-mean_elo.
+  	
 ###27_Profit_curve
   	Summary: Profit Curves allow us to compare models and select the one that will maximize profit for a specified cost-benefit
   	Goal: Obtain the maximum profit transaccion per classifier.
