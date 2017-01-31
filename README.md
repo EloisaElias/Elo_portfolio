@@ -21,6 +21,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### Content
 ---
   
+###31_SVD
+  	Summary: the singular value decomposition (SVD) is a factorization of a real or complex matrix.
+  	Goal: Apply SVD 
+  	
+  	Dataset: In process
+  	
+  	The fun part: In process
 ###30_K_means
   	Summary: k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
   	Goal: Visualizing
