@@ -1,10 +1,9 @@
 ## Direction over speed..
-#### Effectivess & Efficiency
+#### Integrity, Vision and Delivery
 
 Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & statistics. Thank you for viewing my portfolio. 
 
-I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 11 and 12.
-
+I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 32 & 33
 ..for my amusement, practice and better comprehension
 
 
@@ -21,9 +20,16 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### Content
 ---
   
-###32_Dimentionality_Reduction
+###33_SVD
   	Summary: the singular value decomposition (SVD) is a factorization of a real or complex matrix.
   	Goal: Apply SVD 
+  	
+  	Dataset: In process
+  	
+  	The fun part: In process
+###32_Dimentionality_Reduction
+  	Summary: Principal Component Analysis is a factorization of a real or complex matrix.
+  	Goal: Apply PCA
   	
   	Dataset: In process
   	
