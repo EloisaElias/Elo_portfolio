@@ -26,7 +26,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	Dataset: The International Standard Book Number (ISBN) & Congress dataset
   	
-  	The fun part: In process
+  	The fun part: Visualizing High Dimensional Data
 ###32_Dimentionality_Reduction
   	Summary: Principal Component Analysis is a factorization of a real or complex matrix.
   	Goal: Apply PCA
