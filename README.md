@@ -52,7 +52,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ###28_Web_Scraping
   	Summary: In process
   	Goal: In process	
-  	Dataset: In process
+  	Dataset: Creating dataset through using web scrapping techniques
   	
   	The fun part: In process
   	  	
