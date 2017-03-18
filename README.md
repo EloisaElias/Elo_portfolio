@@ -20,56 +20,56 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### Content
 ---
   
-###33_SVD
+### 33_SVD
   	Summary: the singular value decomposition (SVD) is a factorization of a real or complex matrix.
   	Goal: Apply SVD 
   	
   	Dataset: The International Standard Book Number (ISBN) & voteview.com
   	
   	The fun part: Visualizing High Dimensional Data
-###32_Dimentionality_Reduction
+### 32_Dimentionality_Reduction
   	Summary: Principal Component Analysis is a factorization of a real or complex matrix.
   	Goal: Apply PCA
   	
   	Dataset: In process
   	
   	The fun part: In process
-###31_K_means_clustering
+### 31_K_means_clustering
   	Summary: k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
   	Goal: Develop algorithm for a news paper data set
   	
   	Dataset: News_paper
   	
   	The fun part: Cluster of related topics
-###30_K_means
+### 30_K_means
   	Summary: k-means clustering aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean, serving as a prototype of the cluster.
   	Goal: Visualizing
   	
   	Dataset: Sklearn.dataset - Iris
   	
   	The fun part: Visualization of the Sklearn vs K-mean_elo.
-###29_NLP
+### 29_NLP
   	Summary: -
   	Goal: -
   	Dataset: -
   	
   	The fun part: -
   	
-###28_Web_Scraping
+### 28_Web_Scraping
   	Summary: In process
   	Goal: In process	
   	Dataset: Creating dataset through using web scrapping techniques
   	
   	The fun part: In process
   	  	
-###27_Profit_curve
+### 27_Profit_curve
   	Summary: Profit Curves allow us to compare models and select the one that will maximize profit for a specified cost-benefit
   	Goal: Obtain the maximum profit transaccion per classifier.
   	
   	Dataset: churn.csv
   	
   	The fun part:Calculation of the higher profit per transaction.
-###26_AdaBoosting_Classsifier
+### 26_AdaBoosting_Classsifier
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
 
@@ -78,7 +78,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: spam.csv
   	
   	The fun part: Grid search
-###25_Boosting
+### 25_Boosting
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
 
@@ -86,7 +86,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: sklearn.dataset
   	
   	The fun part: Grid search
-###24_SVM_hyperparameter_C
+### 24_SVM_hyperparameter_C
   	Summary: Support Vector Machine 
   	Goal: Use of hyperparameter C and grid search optimization 
 
@@ -99,7 +99,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: sklearn load_digits() & other cvs files.
   	
   	The fun part: Grid search
-###23_SVM
+### 23_SVM
   	Summary: Support Vector Machine - Linear SVM
   	Goal: Logistic Regression boundary and SVM boundary comparison
 
@@ -114,7 +114,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: SVM boundaries
 
   	
-###22_Random_forest_ROC
+### 22_Random_forest_ROC
   	
   	Summary: Receiver Operating Characteristics (ROC) graphs are a useful technique for organizing classifiers and visualizing their performance. 
  
@@ -129,7 +129,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: The confusion matrix and the receiver operating characteristic, amd feature importance.
   	
-###21_Random_forest
+### 21_Random_forest
   	Summary: (RF) is a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
   	Goal: Step by step manual RF
   	
@@ -143,7 +143,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	 
   	The fun part: The RF class and nodes.
   	
-###20_Decision_tree
+### 20_Decision_tree
 
   	Summary: Decision Trees (DTs) are a non-parametric, non linear supervised learning method used for classification (Nominal/Discrete data) and regression (Continuous data). 
   	Goal: Step by step manual DT
@@ -158,7 +158,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 	
 	The fun part: The concept of Entropy in terms of information theory.
 
-###19_KNearest_Neightbor
+### 19_KNearest_Neightbor
   	Summary: Nearest neighbor search (NNS), also known as proximity search, similarity search or closest point search, is an optimization problem for finding closest (or most similar) points
   	
   	Goal: Step by step manual KNN
@@ -172,7 +172,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part:Data needs no preparation for the the algorithm
 
-###18_Gradient_descend
+### 18_Gradient_descend
   	Summary: Machine learning - Optimization algorithm
   	Goal: The goal of gradient descent is to minimize a function (the cost function of the hypothesis or the square errors of the hypothesis). For this case is Logistic regression function. Obtain the parameters that minimize my function. h(θ) --> j(θ) --> min_θ j(θ).
   	
@@ -187,7 +187,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: The math and the gradient class function
   	
-###17_Logistic_regression
+### 17_Logistic_regression
     Summary: Classifier algorithm, ROC, Kfold and AUC
     Goal: Obtain ROC curve
   	
@@ -200,7 +200,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: the ROC curve
   	
-###16_Regularization_Regression
+### 16_Regularization_Regression
   	Summary: Ridge and Lasso   	
   	Goal: Addressing overfitting
   	
@@ -214,7 +214,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: Visualizing the best alpha for the model.
   	
-###15_Cross_Validation
+### 15_Cross_Validation
   	Summary: Comparing models - sklear dataset
   	Goal: The goal is to evaluate the model given  metric I'm interested in.
   	
@@ -228,7 +228,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: The training test size estimator
   	
-###14_LinearRegression_Credit_card_balances
+### 14_LinearRegression_Credit_card_balances
   	Summary: Credit card analysis - multivariate regression
   	Goal:The task is to predict an individual's balance based on various variables and feature engineering - Using adjusted R^2 or F-tests and VIF to detect multicollinearity.
   	
@@ -251,7 +251,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	  		
   	The fun part: Using plotly for graphics
   	  	
-###12_Exploratory_Data_Analysis_EDA
+### 12_Exploratory_Data_Analysis_EDA
   	Summary: Business analysis - Bike rental 
   	Goal: Develop exploratory data analysis and apply linear regression algoritm in order to recomend the specific date with maximum spread of promotional campaign for a business (rental). The goal is to find the coefficients β which fit the equations "best," in the sense of solving the quadratic minimization problem
   	
@@ -264,7 +264,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: Obtaining the normal behavior of the rental business and the use of the basemap
   	
-###11_Linear_algebra_PageRank_algorithm
+### 11_Linear_algebra_PageRank_algorithm
   	Summary: Markov chain and linear algebra
   	Goal: Implementing the PageRank algorithm
   	
@@ -275,7 +275,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: page ranking algorithm using basic linear algebra, one of the first google pagerank algorithm
   	
-###10_Covariance_Joint_distribution
+### 10_Covariance_Joint_distribution
   	Summary: Analizing a university dataset, obtaining potential threshold for admission
   	Goal: Covariance and other statistics functions
  
@@ -283,13 +283,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: visualizing the pdf for admission vs income
   	
-###09_Probability
+### 09_Probability
   	Summary: Probability excercises
   	Goal: Basic probability using python
   	
   	The fun part: from basic probabilty obtaining interesting inferences
   	
-###08_Bayesian_analysis.ipynb
+### 08_Bayesian_analysis.ipynb
   	Summary: Visualizing Bayes step by step
  
   
@@ -297,14 +297,14 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: The transformation of the probabilities into a distribution
   	
-###07_Power_A/B_test
+### 07_Power_A/B_test
     Summary: Hypothesis test and power calculation
     Goal: Power in Python
   	
   		
   	The fun part: From the frequentist point of view Power is everything. 
   
-###06_Multi_armed_bandit
+### 06_Multi_armed_bandit
   	Summary: Selection of a slot machine strategy 
   	Goal: Visializing the trials proportions
   
@@ -314,7 +314,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: Visualize the the house always win
   
-###05_Bayesian_bandit
+### 05_Bayesian_bandit
   	Summary: Comparing websites
   	Goal: AB test using Bayes
   	
@@ -322,7 +322,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
  		
   	The fun part: Visualizing Bayes
   
-###04_Estimation_sampling
+### 04_Estimation_sampling
    	Summary:Data distribution
    	Goal: Use of diferent distributions
  
@@ -331,7 +331,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: the Gamma vs Normal distributions
   
-###03_AB_test
+### 03_AB_test
     Summary: Z-test 
     Goal: Test statistic of A/B test
   	
@@ -339,7 +339,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: the z-test function
   
-###02_CTR
+### 02_CTR
     Summary: Click through rate methodology and t-test function
   	
   	Tradeoffs:
@@ -349,7 +349,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: T-tests
   
-###01_Classes
+### 01_Classes
   	Summary: Encapsulation programs
   	Goal: Understanding classes
   	
@@ -358,7 +358,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		
   	The fun part: Learning another way to program
   
-###00_UCI_Iris_&_wine_df
+### 00_UCI_Iris_&_wine_df
   	Summary: Exploratory data analysis (EDA) & logistic regression model
   	Goal: Visualizing the data
   	
