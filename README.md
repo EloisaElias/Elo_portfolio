@@ -48,13 +48,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: Sklearn.dataset - Iris
   	
   	The fun part: Visualization of the Sklearn vs K-mean_elo.
-### 29_NLP
-  	Summary: -
-  	Goal: -
-  	Dataset: -
-  	
-  	The fun part: -
-  	
+
 ### 28_Web_Scraping
   	Summary: In process
   	Goal: In process	
