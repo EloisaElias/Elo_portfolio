@@ -6,7 +6,8 @@ Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & stat
 I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 32 & 33
 ..for my amusement, practice and better comprehension
 
-
+Thank you for viewing my portfolio at:
+https://www.linkedin.com/in/eloisaeliastran/
 
                                                        Gracias totales
                                                             Elo
@@ -48,7 +49,13 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Dataset: Sklearn.dataset - Iris
   	
   	The fun part: Visualization of the Sklearn vs K-mean_elo.
-
+### 29_NLP
+  	Summary: -
+  	Goal: -
+  	Dataset: -
+  	
+  	The fun part: -
+  	
 ### 28_Web_Scraping
   	Summary: In process
   	Goal: In process	
