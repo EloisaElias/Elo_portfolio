@@ -6,6 +6,8 @@ Hola a todos, I'm Eloisa and I'm a data scientist that loves math, python & stat
 I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 32 & 33
 ..for my amusement, practice and better comprehension
 
+I’m passionate about data science. If you would like me to join your team, let’s have a coffee. I would love to join a company with big data science projects and challenges.
+
 Thank you for viewing my portfolio at:
 https://www.linkedin.com/in/eloisaeliastran/
 
