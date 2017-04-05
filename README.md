@@ -52,11 +52,11 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
   	The fun part: Visualization of the Sklearn vs K-mean_elo.
 ### 29_NLP
-  	Summary: -
-  	Goal: -
-  	Dataset: -
+  	Summary: In Process
+  	Goal: In Process
+  	Dataset: In Process
   	
-  	The fun part: -
+  	The fun part: In Process
   	
 ### 28_Web_Scraping
   	Summary: In process
@@ -75,8 +75,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 26_AdaBoosting_Classsifier
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
-
- 
   	
   	Dataset: spam.csv
   	
@@ -84,7 +82,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 25_Boosting
   	Summary: Gradient boosting is a machine learning technique for regression and classification problems, which produces a prediction model in the form of an ensemble of weak prediction models, typically decision trees. 
   	Goal: Usage of Sklearn Boost algorithms and SearchGrid.
-
   
   	Dataset: sklearn.dataset
   	
@@ -105,7 +102,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 23_SVM
   	Summary: Support Vector Machine - Linear SVM
   	Goal: Logistic Regression boundary and SVM boundary comparison
-
   	
   	Tradeoffs: 
   		- Advantages: a)Linear and non-linear classification, b)Usage of soft margins, c)Kernel transformation, d)regularisation parameter, to avoiding over-fitting, e)SVM is defined by a convex optimisation problem
@@ -213,8 +209,7 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution: Model selection algorithm
   	
   	Dataset: sklearn.datasets - load_diabetes()
-  	
-  	
+  		
   	The fun part: Visualizing the best alpha for the model.
   	
 ### 15_Cross_Validation
@@ -227,7 +222,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution:a)For high variance, we have the following relationships in terms of the training set size: With high variance a1)Low training set size:  Jtrain(Θ) will be low and JCV(Θ) will be high., a2)Large training set size: Jtrain(Θ) increases with training set size and JCV(Θ) continues to decrease without leveling off. Also, Jtrain(Θ)<JCV(Θ) but the difference between them remains significant.b)If a learning algorithm is suffering from high variance, getting more training data is likely to help.
   		
   	Dataset: from sklearn.datasets import load_boston
-
   	
   	The fun part: The training test size estimator
   	
@@ -235,7 +229,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Summary: Credit card analysis - multivariate regression
   	Goal:The task is to predict an individual's balance based on various variables and feature engineering - Using adjusted R^2 or F-tests and VIF to detect multicollinearity.
   	
-
   	Dataset: csv
   	
   	The fun part: Feature engineering
@@ -294,7 +287,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	
 ### 08_Bayesian_analysis.ipynb
   	Summary: Visualizing Bayes step by step
- 
   
   	Related Programs: Bayes_elo.py
   		
@@ -303,7 +295,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 07_Power_A/B_test
     Summary: Hypothesis test and power calculation
     Goal: Power in Python
-  	
   		
   	The fun part: From the frequentist point of view Power is everything. 
   
@@ -311,7 +302,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Summary: Selection of a slot machine strategy 
   	Goal: Visializing the trials proportions
   
-  	
   	Dataset: Discrete
   	Related Programs: Multiarm_elo
   		
@@ -328,7 +318,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 04_Estimation_sampling
    	Summary:Data distribution
    	Goal: Use of diferent distributions
- 
   	
   	Dataset: rainfall.csv
   		
