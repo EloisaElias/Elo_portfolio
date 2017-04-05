@@ -4,7 +4,7 @@
 
 I'm a Data Scientist, and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
-I've been working on these programs in a daily basis for my personal reference and for my readers. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 32 & 33
+I've been working on these programs in a daily basis for my personal reference. I hope you will enjoy them as much I did when working on them. My favorites ones so far are 32 & 33
 ..for my amusement, practice and better comprehension
 
 Thank you for viewing my portfolio at:
