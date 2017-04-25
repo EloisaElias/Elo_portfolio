@@ -1,5 +1,5 @@
 ## Direction over speed
-#### Integrity, Vision and Delivery
+#### Integrity, Energy, Vision and Delivery
 
 
 I'm a Data Scientist, and I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
