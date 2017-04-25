@@ -11,6 +11,14 @@ Thank you for viewing my portfolio at:
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
+#### TMobile/Amazon Big Data Hackathon Honorable Mention!
+
+Hooray! Check out my award winner hackathon project!
+
+[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
+
+[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
+
 
                                                        Gracias totales
                                                             Elo
