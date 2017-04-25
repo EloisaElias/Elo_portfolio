@@ -5,7 +5,7 @@
 
 I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
-I've been working on these programs in a daily basis for my personal reference. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33
+I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33
 ..for my amusement, practice and better comprehension
 
 LinkedIn portfolio at:
@@ -14,7 +14,7 @@ LinkedIn portfolio at:
 
 @eloeliasds
 
-#### TMobile/Amazon Big Data Hackathon Honorable Mention!
+#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
 Hooray! Check out my award winner hackathon project!
 
