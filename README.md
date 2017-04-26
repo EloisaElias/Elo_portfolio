@@ -9,10 +9,7 @@ I’m passionate about using data science, programming, and statistical analysis
 
 I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLadies Seattle, supporting over 1155 local members. PyLadies is a worldwide group of women developers in Python programming language with presence in Seattle-Bellevue. In addition, I also co-organize the PyData Seattle conferences, which brings together users and developers of data analysis tools to share ideas and learn from each other. 
 
-I would love to join a company with big data science projects and challenges. Check out my Github portfolio for the data science projects I'm working on:
-
-
-[Eloisa - GitHub portfolio](https://github.com/EloisaElias)
+I would love to join a company with big data science projects and challenges. This is my Github portfolio for the data science projects I'm working on.
 
 
 LinkedIn portfolio at:
@@ -20,6 +17,8 @@ LinkedIn portfolio at:
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
 
 @eloeliasds
+
+I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
 
 __Contact me at any of the following meetup links:__
 
@@ -39,8 +38,7 @@ https://www.meetup.com/Seattle-PyLadies
 
 https://www.python.org/
 
-I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33
-..for my amusement, practice and better comprehension
+
 
 #### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
