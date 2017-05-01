@@ -1,4 +1,5 @@
-### Eloisa - Data Scientist @eloeliasds
+### Eloisa - Data Scientist 
+#### @eloeliasds
 ---
 #### Integrity, Energy, Vision and Delivery
 
