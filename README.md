@@ -129,7 +129,6 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ### 24_SVM_hyperparameter_C
   	Summary: Support Vector Machine 
   	Goal: Use of hyperparameter C and grid search optimization 
-
   	
   	Tradeoffs: SVMs have a tradeoff between maximizing the margin and minimizing the classification error.
   		- Advantages: Best parameters set found by using tuning hyper-parameters GridSearchCV() 
