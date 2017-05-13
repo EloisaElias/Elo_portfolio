@@ -62,7 +62,8 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
 ---
 ### Content
 ---
-  
+
+### 34_ 
 ### 33_SVD
   	Summary: the singular value decomposition (SVD) is a factorization of a real or complex matrix.
   	Goal: Apply SVD 
