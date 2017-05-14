@@ -41,7 +41,7 @@ https://www.python.org/
 ---
 
 
-#### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
 
 Hooray! Check out my award winner hackathon project!
 
