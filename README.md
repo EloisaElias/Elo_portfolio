@@ -400,8 +400,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   		- Solution: It's worth to visualize our datase before start doing stats
   	
   	Dataset: https://archive.ics.uci.edu/ml/machine-learning-databases & Iris.csv
-  	
-  	The fun part: Graphs
+### 00_SQL
+  	Summary: DDL & SML
+    	
+  	The fun part: DB
   
 
 
