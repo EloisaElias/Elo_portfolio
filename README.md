@@ -404,7 +404,10 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	Summary: DDL & SML
     	
   	The fun part: DB
-  
+### 00_Elo_Hackaton_TMobile
+  	Summary: 
+    	
+  	The fun part: 
 
 
   
