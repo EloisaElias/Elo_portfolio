@@ -405,9 +405,9 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
     	
   	The fun part: DB
 ### 00_Elo_Hackaton_TMobile
-  	Summary: 
+  	Summary: Dimensionality Reduction and ML 
     	
-  	The fun part: 
+  	The fun part: Winning the 'Honorable Mention' for the best algorithm presented at the event
 
 
   
