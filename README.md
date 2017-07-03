@@ -1,26 +1,22 @@
 ### Eloisa - Data Scientist 
-#### @eloeliasds
 ---
 #### Integrity, Energy, Vision and Delivery
 
 
+I'm a Data Scientist, and I’m passionate about using data science, programming and statistical analysis to solve Big Data challenges and deliver valuable business insights.
+My technical skills include: Machine learning, applied statistics, extensive Python programming, fraud-anomaly detection analysis, churn prediction, exploratory data analysis (EDA), classification, regression, profit curves, clustering, support vector machine, neural network algorithm, decision tree, random forest, dimensionality reduction, principal component analysis (PCA), singular value decomposition (SVD), data mining, natural language processing (NLP), SQL relational databases and NoSQL databases (MongoDB). I’m also Six Sigma certified, with 8+ years of practical experience applying statistical analysis and models for improving KPIs at Fortune 500 companies in the area of business intelligence and quality control for the automotive manufacturing industry. Expertise in enterprise customer negotiation involving multi-million dollar projects, portfolio includes: Fiat Chrysler, Volkswagen Group, NGA (National Geospatial-Intelligence Agency)
+I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLadies Seattle, supporting over 1155 local members. PyLadies is a worldwide group of women developers in Python programming language with presence in Seattle- Bellevue. In addition, I also organize and participate as speaker at the PyData Seattle conferences, which brings together users and developers of Data Science/Analysis tools to share ideas and learn from each other (3 day conference at Microsoft - Seattle target audience of 1,500 attendees). PyData is an international conference series drawing thousands of participants each year worldwide. https://pydata.orgProfile: https://pydata.org/seattle2017/speaker/profile/169
+Judge at nationwide Hackathon - ExpeditionHacks Seattle on May 20, 2017. http://expeditionhacks.com/seattle
+Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at: http://bigdatahackathon2017.tmo.io
+I moved to the US from Mexico in 2014. Prior to 2014, I applied my statistical knowledge and technical skills as a principal engineer and project coordinator in the automotive-electronics industry at Panasonic, Johnson Controls, Emerson and TRW.
+
+If you would like me to join your team, contact me at:
 
-I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights. 
+__@PyDataSeattle__
 
-
-I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLadies Seattle, supporting over 1155 local members. PyLadies is a worldwide group of women developers in Python programming language with presence in Seattle-Bellevue. In addition, I also co-organize the PyData Seattle conferences, which brings together users and developers of data analysis tools to share ideas and learn from each other. PyData is an international conference series drawing thousands of participants each year worldwide.
-
-I would love to join a company with big data science projects and challenges. This is my Github portfolio for the data science projects I'm working on.
-
-
-LinkedIn portfolio at:
+__@eloeliasds__
 
 [Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
-
-
-I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
-
-__Contact me at any of the following meetup links:__
 
 
 #### PyData
@@ -38,14 +34,19 @@ https://www.meetup.com/Seattle-PyLadies
 
 https://www.python.org/
 
+
+___
+
+I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
+
 ---
 
 
-### T-Mobile/Amazon Big Data Hackathon Honorable Mention!
+### T-Mobile/Amazon Big Data Hackathon Honorable Mention
 
-Hooray! Check out my award winner hackathon project!
 
-[I was awarded the Honorable Mention for the best Big Data model presented at the event!](http://bigdatahackathon2017.tmo.io)
+
+[I was awarded the Honorable Mention for the best Big Data model presented at the event](http://bigdatahackathon2017.tmo.io)
 
 [T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
 
