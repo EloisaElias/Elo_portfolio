@@ -4,51 +4,21 @@
 
 
 I'm a Data Scientist, and I’m passionate about using data science, programming and statistical analysis to solve Big Data challenges and deliver valuable business insights.
-My technical skills include: Machine learning, applied statistics, extensive Python programming, fraud-anomaly detection analysis, churn prediction, exploratory data analysis (EDA), classification, regression, profit curves, clustering, support vector machine, neural network algorithm, decision tree, random forest, dimensionality reduction, principal component analysis (PCA), singular value decomposition (SVD), data mining, natural language processing (NLP), SQL relational databases and NoSQL databases (MongoDB). I’m also Six Sigma certified, with 8+ years of practical experience applying statistical analysis and models for improving KPIs at Fortune 500 companies in the area of business intelligence and quality control for the automotive manufacturing industry. Expertise in enterprise customer negotiation involving multi-million dollar projects, portfolio includes: Fiat Chrysler, Volkswagen Group, NGA (National Geospatial-Intelligence Agency)
-I’m an active member of the Seattle Tech community. I'm a co-organizer of PyLadies Seattle, supporting over 1155 local members. PyLadies is a worldwide group of women developers in Python programming language with presence in Seattle- Bellevue. In addition, I also organize and participate as speaker at the PyData Seattle conferences, which brings together users and developers of Data Science/Analysis tools to share ideas and learn from each other (3 day conference at Microsoft - Seattle target audience of 1,500 attendees). PyData is an international conference series drawing thousands of participants each year worldwide. https://pydata.orgProfile: https://pydata.org/seattle2017/speaker/profile/169
-Judge at nationwide Hackathon - ExpeditionHacks Seattle on May 20, 2017. http://expeditionhacks.com/seattle
-Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at: http://bigdatahackathon2017.tmo.io
-I moved to the US from Mexico in 2014. Prior to 2014, I applied my statistical knowledge and technical skills as a principal engineer and project coordinator in the automotive-electronics industry at Panasonic, Johnson Controls, Emerson and TRW.
-
+My technical skills include: Machine learning, applied statistics, extensive Python programming, fraud-anomaly detection analysis, churn prediction, exploratory data analysis (EDA), classification, regression, profit curves, clustering, support vector machine, neural network algorithm, decision tree, random forest, dimensionality reduction, principal component analysis (PCA), singular value decomposition (SVD), data mining, natural language processing (NLP), SQL relational databases and NoSQL databases (MongoDB). I’m also Lean-Six Sigma certified, with 8+ years of practical experience applying statistical analysis and models for improving KPIs at Fortune 500 companies in the area of business intelligence and quality management & systems. I provide a start-to-end perspective of the Plan, Do, Study (Check) and Act methodology including, Scrum, Kanban and Andon on all aspects of production and operations. Expertise in enterprise customer negotiation involving multi-million dollar projects, portfolio includes: Fiat Chrysler, Volkswagen Group.I’m an active member of the Seattle Tech community. I'm an organizer of PyLadies Seattle, supporting over 1304 local members. PyLadies is a worldwide group of women developers in Python programming language. Sponsorship and finance manager of the Grace Hopper Celebration, GH1/Seattle (1 day conference, target audience of 800 attendees). In addition, I’m the Seattle representative of PyData and NumFOCUS which supports and promotes world-class open source scientific computing projects for Data Science, including: Pandas, Julia, IPython, Jupyter, Numpy and Matplotlib. I organize the PyData Seattle (3 day conference https://pydata.org - Target audience of 1,000 attendees) and PyData Seattle Tech community meetup, supporting over 603 local members. [PyData Seattle Profile](https://pydata.org/seattle2017/speaker/profile/169)Judge at nationwide Hackathon - [ExpeditionHacks](http://expeditionhacks.com/seattle) Seattle on May 20, 2017. Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at [T-Mobile](http://bigdatahackathon2017.tmo.io)
+[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
 If you would like me to join your team, contact me at:
-
-__@PyDataSeattle__
-
-__@eloeliasds__
-
-[Eloisa - LinkedIn](https://www.linkedin.com/in/eloisaeliastran/)
-
-
-#### PyData
-
-https://www.meetup.com/pydata_seattle
-
-https://pydata.org
-
-
-
-#### PyLadies
-
-https://www.meetup.com/Seattle-PyLadies
-
-
-https://www.python.org/
+#### [Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
+#### [@PyDataSeattle](https://twitter.com/PyDataSeattle)
+#### [PyData Seattle](https://www.meetup.com/pydata_seattle)
+#### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
 
 
 ___
 
-I've been working on these programs for my personal reference and just for fun!. I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
+I've been working on these programs for my personal reference and just for fun!Yay!🌟💚💙
 
----
+I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
 
-
-### T-Mobile/Amazon Big Data Hackathon Honorable Mention
-
-
-
-[I was awarded the Honorable Mention for the best Big Data model presented at the event](http://bigdatahackathon2017.tmo.io)
-
-[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
 
 
                                                        Gracias totales
