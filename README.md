@@ -19,7 +19,7 @@ I hope you will enjoy them as much I did during the process of building on them.
 
 
 
-                                                       Gracias totales
+                                                       Gracias totales!
                                                             Elo
 
 
