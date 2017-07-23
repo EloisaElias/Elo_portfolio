@@ -15,7 +15,7 @@ ___
 
 I've been working on these programs for my personal reference and just for fun!Yay!🌟💚💙
 
-I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 ..for my amusement, practice and better comprehension
+I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 
 
 
 
