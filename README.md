@@ -69,11 +69,11 @@ Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython noteboo
   	The fun part: In Process
   	
 ### 28_Web_Scraping
-  	Summary: In process
-  	Goal: In process	
-  	Dataset: Creating dataset through using web scrapping techniques
+  	Summary: Mongodb and Requests
+  	Goal: Create a NOSQL Mongodb data base with our own scraped information	
+  	Dataset: Wikipedia 
   	
-  	The fun part: In process
+  	The fun part: Mongodb
   	  	
 ### 27_Profit_curve
   	Summary: Profit Curves allow us to compare models and select the one that will maximize profit for a specified cost-benefit
