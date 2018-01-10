@@ -1,21 +1,25 @@
 ### Eloisa - Data Scientist 
 ---
 
-I'm a Data Scientist, and I’m passionate about using data science, programming and statistical analysis to solve Big Data challenges and deliver valuable business insights.
-My technical skills include: Machine learning, applied statistics, extensive Python programming, fraud-anomaly detection analysis, churn prediction, exploratory data analysis (EDA), classification, regression, profit curves, clustering, support vector machine, neural network algorithm, decision tree, random forest, dimensionality reduction, principal component analysis (PCA), singular value decomposition (SVD), data mining, natural language processing (NLP), SQL relational databases and NoSQL databases (MongoDB). I’m also Lean-Six Sigma certified, with 8+ years of practical experience applying statistical analysis and models for improving KPIs at Fortune 500 companies in the area of business intelligence and quality management & systems. I provide a start-to-end perspective of the Plan, Do, Study (Check) and Act methodology including, Scrum, Kanban and Andon on all aspects of production and operations. Expertise in enterprise customer negotiation involving multi-million dollar projects, portfolio includes: Fiat Chrysler, Volkswagen Group.I’m an active member of the Seattle Tech community. I'm an organizer of PyLadies Seattle, supporting over 1304 local members. PyLadies is a worldwide group of women developers in Python programming language. Sponsorship and finance manager of the Grace Hopper Celebration, GH1/Seattle (1 day conference, target audience of 800 attendees). In addition, I’m the Seattle representative of PyData and NumFOCUS which supports and promotes world-class open source scientific computing projects for Data Science, including: Pandas, Julia, IPython, Jupyter, Numpy and Matplotlib. I organize the PyData Seattle (3 day conference https://pydata.org - Target audience of 1,000 attendees) and PyData Seattle Tech community meetup, supporting over 603 local members. [PyData Seattle Profile](https://pydata.org/seattle2017/speaker/profile/169)Judge at nationwide Hackathon - [ExpeditionHacks](http://expeditionhacks.com/seattle) Seattle on May 20, 2017. Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at [T-Mobile](http://bigdatahackathon2017.tmo.io)
+I'm a Data Scientist, and I’m passionate about using data science, programming and statistical analysis to solve Big Data challenges and deliver valuable business insights.I’m an active member of the Seattle Tech community. Organizer of PyLadies Seattle supporting over 1448 local members (PyLadies, a worldwide group of women developers in Python programming). Organizer of the Women in Data Science WiDS and Grace Hopper Celebration GHC/1 Seattle. In addition, I represent PyData Seattle by NumFOCUS which supports and promotes world-class open source scientific computing projects for Data Science, including: Pandas, Julia, IPython, Jupyter, Numpy and Matplotlib. PyData Seattle (3 day conference https://pydata.org with ~ 1,000 attendees) and the PyData Seattle Tech Community meetup, supporting over 1059 local members.
+[PyData Seattle Profile](https://pydata.org/seattle2017/speaker/profile/169)Judge at nationwide Hackathon - [ExpeditionHacks](http://expeditionhacks.com/seattle) Seattle on May 20, 2017. Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at [T-Mobile](http://bigdatahackathon2017.tmo.io)
 [T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
 If you would like me to join your team, contact me at:
-#### [Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
-#### [@PyDataSeattle](https://twitter.com/PyDataSeattle)
-#### [PyData Seattle](https://www.meetup.com/pydata_seattle)
-#### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
+
+[Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
+
+[@PyDataSeattle](https://twitter.com/PyDataSeattle)
+
+[PyData Seattle](https://www.meetup.com/pydata_seattle)
+
+[PyLadies](https://www.meetup.com/Seattle-PyLadies)
 
 
 ___
 
-I've been working on these programs for my personal reference and just for fun!Yay!🌟💚💙
+I've been working on these programs for my personal notes, meetup and conference presentations and just for fun!🌟💚💙
 
-I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 32 & 33 
+I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 40 & 33 
 
 
 
@@ -27,10 +31,44 @@ I hope you will enjoy them as much I did during the process of building on them.
 
 Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython notebook](http://docs.mathjax.org/en/latest/installation.html#firefox-and-local-fonts) 
 
+[Eloisa Tran - Content Disclaimer](https://github.com/EloisaElias/Content_Disclaimer)
+
 
 ---
 ### Content
 ---
+
+### 40_eloSparkMLlib
+  	Summary: Utilizing ML tools
+  	Goal: MLlib
+  	
+  	Dataset: http://qwone.com/~jason/20Newsgroups/
+  	
+  	The fun part: PySpark df rocks!
+  	
+### 39_eloSpark
+  	Summary: Spark basics with partitions (clusters)
+  	Goal: RDDs and operations
+  	
+  	Dataset: s3n://mortar-example-data/airline-data
+  	
+  	The fun part: Updating Spark
+
+### 38_Spark
+  	Summary: Spark basics
+  	Goal: RDDs and operations
+  	
+  	Dataset: Sklearn.datasets
+  	
+  	The fun part: Lambdas :) hohohohooo
+
+### 34_AWS
+  	Summary: Utilizing boto to connect and edit S3 buckets 
+  	Goal: AWS storage 
+  	
+  	Dataset: Cancer rates.csv
+  	
+  	The fun part: boto
 
 
 ### 33_SVD
