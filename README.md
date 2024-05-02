@@ -1,37 +1,29 @@
-### Eloisa - Data Scientist 
----
+# Eloisa Elias T 
+### Data Scientist • Six Sigma • Open Source AI • Women Techmakers Ambassador
 
-I'm a Data Scientist, and I’m passionate about using data science, programming and statistical analysis to solve Big Data challenges and deliver valuable business insights.I’m an active member of the Seattle Tech community. Organizer of PyLadies Seattle supporting over 1448 local members (PyLadies, a worldwide group of women developers in Python programming). Organizer of the Women in Data Science WiDS and Grace Hopper Celebration GHC/1 Seattle. In addition, I represent PyData Seattle by NumFOCUS which supports and promotes world-class open source scientific computing projects for Data Science, including: Pandas, Julia, IPython, Jupyter, Numpy and Matplotlib. PyData Seattle (3 day conference https://pydata.org with ~ 1,000 attendees) and the PyData Seattle Tech Community meetup, supporting over 1059 local members.
-[PyData Seattle Profile](https://pydata.org/seattle2017/speaker/profile/169)Judge at nationwide Hackathon - [ExpeditionHacks](http://expeditionhacks.com/seattle) Seattle on May 20, 2017. Nationwide T-Mobile/Amazon Big Data Hackathon - Awarded 'Honorable Mention' for developing the Best Big Data Model at the event on March 26, 2017. Find my project at [T-Mobile](http://bigdatahackathon2017.tmo.io)
-[T-Mobile Big Data Hackathon #TMoHack ](https://www.youtube.com/watch?v=qEaGuX18sz4&feature=youtu.be)
-If you would like me to join your team, contact me at:
-
-[Eloisa - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
-
-[@PyDataSeattle](https://twitter.com/PyDataSeattle)
-
-[PyData Seattle](https://www.meetup.com/pydata_seattle)
-
-[PyLadies](https://www.meetup.com/Seattle-PyLadies)
+Advanced statistics and optimization. Six Sigma certified, 8+ years of experience improving KPIs at Fortune 500 companies @eloeliasds
 
 
-___
+I’m passionate about using data science, programming, and statistical analysis to solve Big Data challenges and deliver valuable business insights.
 
-I've been working on these programs for my personal notes, meetup and conference presentations and just for fun!🌟💚💙
+I've created this repository as a personal reference, for mentoring PyLadies and PyData members.
 
-I hope you will enjoy them as much I did during the process of building on them. My favorites ones so far are 40 & 33 
+Let's connect at
+#### [Elo - LinkedIn](https://www.linkedin.com/in/eloeliasds/)
+#### [PyData Seattle](https://seattle.pydata.org/)
+#### [PyData Seattle meetup](https://www.meetup.com/pydata_seattle)
+#### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
+#### [Seattle Spark + AI](https://www.meetup.com/seattle-spark-meetup/)
+#### [Google Developer Group - GDG Bellevue](https://www.meetup.com/bellevue-gdg/)
 
 
-
-                                                       Gracias totales!
+       
+                                                       Gracias totales
                                                             Elo
 
 
 
 
-Note: [Firefox - Visualizing the mathematical formulas(LaTex) in ipython notebook](http://docs.mathjax.org/en/latest/installation.html#firefox-and-local-fonts) 
-
-[Eloisa Tran - Content Disclaimer](https://github.com/EloisaElias/Content_Disclaimer)
 
 
 ---
