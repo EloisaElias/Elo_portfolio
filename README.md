@@ -14,6 +14,7 @@ Let's connect at
 #### [PyData Seattle meetup](https://www.meetup.com/pydata_seattle)
 #### [PyLadies](https://www.meetup.com/Seattle-PyLadies)
 #### [Seattle Spark + AI](https://www.meetup.com/seattle-spark-meetup/)
+#### [Women Techmakers Seattle - WTM Seattle](https://www.linkedin.com/company/wtmseattle/)
 #### [Google Developer Group - GDG Bellevue](https://www.meetup.com/bellevue-gdg/)
 
 
